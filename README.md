@@ -49,8 +49,10 @@
 ### Tools Used
 
 -[REM Font](https://fonts.google.com/specimen/REM)
+
 -[Vue-Dropzone](https://github.com/Yaxian/vue3-dropzone)
-- [vue-clipboard3](https://github.com/JamieCurnow/vue-clipboard3)
+
+-[vue-clipboard3](https://github.com/JamieCurnow/vue-clipboard3)
 
 ## Features
 
@@ -64,14 +66,16 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 To clone and run this application, you'll need:
  -[Git](https://git-scm.com) 
+ 
  -[Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com))
+ 
  -[Composer](https://getcomposer.org/)
 
   From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/manuelzorrilladev/image-uploader
 
 # Install dependencies
 $ npm install
