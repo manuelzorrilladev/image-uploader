@@ -1,26 +1,7 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Image Uploader</h1>
 
-<div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
-</div>
-
-<div align="center">
-  <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="https://github.com/manuelzorrilladev/image-uploader">
-      Repository
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/O2iGT9yBd6xZBrOcVirx">
-      Challenge
-    </a>
-  </h3>
-</div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -28,8 +9,8 @@
 
 
 - [Built With](#built-with)
- -[Tools Used](#tools)
-- [Features](#features)
+- [Tools Used](#tools)
+
 - [How to use](#how-to-use)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -54,11 +35,7 @@
 
 -[vue-clipboard3](https://github.com/JamieCurnow/vue-clipboard3)
 
-## Features
 
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/O2iGT9yBd6xZBrOcVirx) was to build an application to complete the given user stories.
 
 ## How To Use
 
